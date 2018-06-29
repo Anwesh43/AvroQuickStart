@@ -1,0 +1,7 @@
+*.avro
+target
+AvroQuickStart.iml
+target/
+*.avro
+*.avsc
+.idea
